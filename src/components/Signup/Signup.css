@@ -1,0 +1,41 @@
+.sign-up-wrapper {
+	background: #fbfcff;
+	width: 100%;
+	background-image: url("../../assets/images/signup/signup-bg@4x.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.logo {
+	width: 213.48px;
+	height: 95px;
+	margin-top: 35px;
+}
+
+.left-image {
+	width: 457.03px;
+	height: 450.83px;
+}
+
+.signup-btn {
+	width: 300px;
+	background-color: #0a3a67 !important;
+	text-transform: capitalize !important;
+	font-weight: 500 !important;
+	font-size: 16px !important;
+}
+.card-bottom-text {
+	color: red;
+	display: flex;
+	align-items: flex-end;
+	justify-content: flex-end;
+	padding-top: 12px;
+	font-size: 18px;
+	color: #6684a1;
+}
+
+.card-bottom-text-strong {
+	color: #0a3a67;
+	font-weight: 600;
+	padding-left: 8px;
+}
