@@ -1,7 +1,16 @@
+import React, { useState } from "react";
 import "./App.css";
+import Properties from "./components/Properties/Properties";
+import Signup from "./components/Signup";
 
 function App() {
-	return <div className="App">Hello World</div>;
+	const [isAuth, setIsAuth] = useState(false);
+
+	return (
+		<div className="App">
+			{isAuth ? <Properties /> : <Signup setIsAuth={setIsAuth} />}
+		</div>
+	);
 }
 
 export default App;
