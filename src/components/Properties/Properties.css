@@ -1,0 +1,9 @@
+.properties-wrapper {
+	background-color: #e7f1fb;
+	width: 100%;
+}
+.bg-image {
+	background-image: url("../../assets/images/properties/properties-bg@4x.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
