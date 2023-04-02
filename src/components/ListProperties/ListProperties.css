@@ -146,3 +146,21 @@
 	max-width: 20px !important;
 	height: 18.22px;
 }
+.custom-pagination {
+	background-color: #ffffff;
+	color: #122452;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	padding-right: 14px;
+	border: 1px solid #cfcfcf;
+	border-top: none;
+	width: 96%;
+	margin-bottom: 50px;
+}
+.custom-pagination > ul {
+	justify-content: flex-end;
+}
+.MuiPaginationItem-previousNext {
+	color: #ffffff !important;
+	background-color: #0f3e6a !important;
+}
