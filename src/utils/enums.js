@@ -85,7 +85,7 @@ export const propertiesData = [
 		bgColor: "#1f9a8b0d",
 	},
 	{
-		id: 11223315,
+		id: 11223375,
 		title: "------",
 		branch: "Bangalore",
 		transactionType: "Lease as a Lessee",
@@ -568,7 +568,6 @@ export const propertiesData = [
 		color: "#FF3B10",
 		bgColor: "#ff3b100d",
 	},
-	//
 	{
 		id: 11223358,
 		title: "------",

@@ -1,17 +1,30 @@
-import React from "react";
+import React, { useState } from "react";
 import {
 	List,
 	ListItem,
 	ListItemText,
 	ListItemIcon,
 	ListItemButton,
+	Pagination,
 } from "@mui/material";
 
 import "./ListProperties.css";
 import { propertiesData } from "../../utils/enums";
 import ImageLinks from "../../utils/ImagesLinks";
+import usePagination from "../../components/hooks/usePagination";
 
 function ListProperties() {
+	const [pageCount, setPageCount] = useState(1);
+
+	const PER_PAGE = 20;
+
+	const _DATA = usePagination(propertiesData, PER_PAGE);
+
+	const handlePageChange = (e, p) => {
+		setPageCount(p);
+		_DATA.jump(p);
+	};
+
 	return (
 		<div className="list-properties-wrapper">
 			<List className="heading-item-wrapper">
@@ -29,7 +42,7 @@ function ListProperties() {
 					<ListItemText className="heading-chat">Chat</ListItemText>
 				</ListItem>
 			</List>
-			{propertiesData?.map((data) => {
+			{_DATA.currentData()?.map((data) => {
 				return (
 					<List key={data.id} className="list-item-wrapper">
 						<ListItem>
@@ -62,6 +75,14 @@ function ListProperties() {
 					</List>
 				);
 			})}
+			<Pagination
+				defaultPage={1}
+				count={3}
+				shape="rounded"
+				onChange={(e, value) => handlePageChange(e, value)}
+				page={pageCount}
+				className="custom-pagination"
+			/>
 		</div>
 	);
 }
