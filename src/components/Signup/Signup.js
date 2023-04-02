@@ -279,7 +279,10 @@ function Signup({ setIsAuth }) {
 							</form>
 							<Box className="card-bottom-text">
 								<span>Are you a vendor/ broker?</span>
-								<a href="#" className="card-bottom-text-strong">
+								<a
+									href="https://indiassetz.com/"
+									className="card-bottom-text-strong"
+								>
 									Login / Signup here
 								</a>
 							</Box>

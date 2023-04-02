@@ -4,6 +4,9 @@
 }
 .bg-image {
 	background-image: url("../../assets/images/properties/properties-bg@4x.png");
-	background-size: cover;
+	background-size: contain;
 	background-repeat: no-repeat;
+	width: auto;
+	height: auto;
+	margin-left: 160px;
 }

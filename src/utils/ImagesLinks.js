@@ -25,6 +25,13 @@ const ImageLinks = {
 
 	// arrow
 	arrowDownLightBlue: require("../assets/images/arrow/arrowDownLightBlue.png"),
+	arrowDownDarkGreen: require("../assets/images/arrow/arrowDownDarkGreen.png"),
+	arrowDownLightGreen: require("../assets/images/arrow/arrowDownLightGreen.png"),
+	arrowDownRed: require("../assets/images/arrow/arrowDownRed.png"),
+	arrowDownYellow: require("../assets/images/arrow/arrowDownYellow.png"),
+
+	// chat
+	chatIcon: require("../assets/images/chat/chat.png"),
 };
 
 export default ImageLinks;
