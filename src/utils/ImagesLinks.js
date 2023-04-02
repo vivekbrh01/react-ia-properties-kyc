@@ -10,6 +10,21 @@ const ImageLinks = {
 	signupBg4x: require("../assets/images/signup/signup-bg@4x.png"),
 	signupLeft2x: require("../assets/images/signup/signup-left@2x.png"),
 	signupLeft4x: require("../assets/images/signup/signup-left@4x.png"),
+
+	// Drawer
+	dashboardIcon: require("../assets/images/drawer/dashboard.png"),
+	leadsIcon: require("../assets/images/drawer/leads.png"),
+	clientsIcon: require("../assets/images/drawer/clients.png"),
+	propertiesIcon: require("../assets/images/drawer/properties.png"),
+	ordersIcon: require("../assets/images/drawer/orders.png"),
+	callBackIcon: require("../assets/images/drawer/callBack.png"),
+	paymentsIcon: require("../assets/images/drawer/payments.png"),
+	iaAiIcon: require("../assets/images/drawer/iaAi.png"),
+	redBoxIcon: require("../assets/images/drawer/redBox.png"),
+	logoutIcon: require("../assets/images/drawer/logout.png"),
+
+	// arrow
+	arrowDownLightBlue: require("../assets/images/arrow/arrowDownLightBlue.png"),
 };
 
 export default ImageLinks;

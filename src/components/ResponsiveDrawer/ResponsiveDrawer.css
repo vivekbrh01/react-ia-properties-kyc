@@ -1,0 +1,17 @@
+.drawer-logo {
+	width: 143.1px;
+	height: 69.22px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 30px 24px 16px 24px;
+}
+
+.drawer-responsive {
+	height: 954.74px;
+}
+
+.drawer-icon {
+	height: 22px;
+	width: 22px;
+}
