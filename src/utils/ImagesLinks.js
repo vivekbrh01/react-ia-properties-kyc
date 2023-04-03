@@ -70,6 +70,8 @@ const ImageLinks = {
 
 	// Upload pic
 	uploadPic: require("../assets/images/uploadPic.png"),
+	// Digilocker
+	digiLocker: require("../assets/images/digiLocker.png"),
 };
 
 export default ImageLinks;
