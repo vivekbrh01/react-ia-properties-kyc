@@ -2,7 +2,7 @@ import React from "react";
 
 import "./PropertiesHeader.css";
 import ImageLinks from "../../utils/ImagesLinks";
-function PropertiesHeader({ page }) {
+function PropertiesHeader({ page, setAddKyc }) {
 	return (
 		<div className="header-main">
 			<div className="header-wrapper">
@@ -25,7 +25,7 @@ function PropertiesHeader({ page }) {
 						/>
 					</div>
 					{page === "properties-list" ? (
-						<div className="add-kyc-button">
+						<div className="add-kyc-button" onClick={() => setAddKyc(true)}>
 							<img src={ImageLinks.addIcon} alt="add" className="add-icon" />
 							<span className="add-kyc-text">KYC</span>
 						</div>
