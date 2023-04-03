@@ -179,3 +179,87 @@
 .gap-8 {
 	gap: 8px;
 }
+
+@media only screen and (max-width: 600px) {
+	.property-details-wrapper {
+		margin-left: 0px;
+		margin-top: 15px;
+		margin-bottom: 20px;
+	}
+	.banner-wrapper,
+	.banner-buttons {
+		flex-direction: column;
+	}
+	.banner-buttons {
+		gap: 10px;
+	}
+	.view-orders {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 100%;
+		padding-top: 6px;
+		padding-bottom: 6px;
+	}
+	.view-properties {
+		padding-top: 6px;
+		padding-bottom: 6px;
+	}
+	.property-card {
+		border-radius: 30px !important;
+		padding: 10px !important;
+		width: 100%;
+	}
+	.hero-heading {
+		margin-top: 8px;
+		margin-bottom: 8px;
+	}
+	.res-flex-col {
+		flex-direction: column;
+	}
+	.w-50 {
+		width: 100% !important;
+	}
+	.banner {
+		width: 300px;
+		height: 180px;
+		margin: 0 auto;
+		display: flex;
+	}
+	.specifications-section {
+		padding: 10px !important;
+	}
+	h4 {
+		margin-top: 8px;
+		margin-bottom: 8px;
+	}
+	.nearby-section-card {
+		padding: 10px 8px;
+	}
+	.nearby-section-card-image {
+		height: 54px;
+		width: 54px;
+	}
+	.finance-section-card-image {
+		height: 34px;
+		width: 34px;
+	}
+	.neighbourhood-text {
+		padding-top: 4px !important;
+		text-align: center;
+	}
+	.covered-parking,
+	.open-parking,
+	.lift {
+		width: 100%;
+	}
+	.res-ptb-10 {
+		padding-top: 10px !important;
+		padding-bottom: 10px !important;
+	}
+	.property-details,
+	.property-sub-details {
+		align-items: flex-start;
+		justify-content: center;
+	}
+}

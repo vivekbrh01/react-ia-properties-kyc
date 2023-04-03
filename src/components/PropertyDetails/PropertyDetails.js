@@ -19,7 +19,7 @@ function PropertyDetails({ selectedProperty, setSelectedIndex }) {
 			<Card className="property-card">
 				<div className="hero-section">
 					<h3 className="hero-heading">Property Details</h3>
-					<div className="flex align-center">
+					<div className="flex align-center res-flex-col">
 						<div className="w-50">
 							<img src={ImageLinks.banner} alt="banner" className="banner" />
 						</div>
@@ -68,7 +68,7 @@ function PropertyDetails({ selectedProperty, setSelectedIndex }) {
 					</p>
 				</div>
 				<div className="specifications-section p-30">
-					<div className="property-details flex align-center justify-between">
+					<div className="property-details flex align-center justify-between res-flex-col">
 						{selectedProperty?.propertyDetails?.map((detail, index) => {
 							console.log(detail.title, detail.subtitle);
 							return (
@@ -79,7 +79,7 @@ function PropertyDetails({ selectedProperty, setSelectedIndex }) {
 							);
 						})}
 					</div>
-					<div className="property-sub-details flex align-center justify-between">
+					<div className="property-sub-details flex align-center justify-between res-flex-col">
 						{selectedProperty?.propertySubDetails?.map((sub, index) => {
 							return (
 								<div className="" key={index}>
@@ -89,12 +89,12 @@ function PropertyDetails({ selectedProperty, setSelectedIndex }) {
 							);
 						})}
 					</div>
-					<div className="flex gap-16">
+					<div className="flex gap-16 res-flex-col">
 						<div className="covered-parking box-group flex align-center justify-between w-30">
 							{selectedProperty?.coveredParking?.map((el, index) => {
 								return (
 									<>
-										<div key={index} className="p-20">
+										<div key={index} className="p-20 res-ptb-10">
 											<p className="f-14 color-lightBlue m-0">{el.title}</p>
 											<p className="f-16 color-blue fw-500 m-0">{el.value}</p>
 										</div>
@@ -111,7 +111,7 @@ function PropertyDetails({ selectedProperty, setSelectedIndex }) {
 							{selectedProperty?.openParking?.map((el, index) => {
 								return (
 									<>
-										<div key={index} className="p-20">
+										<div key={index} className="p-20 res-ptb-10">
 											<p className="f-14 color-lightBlue m-0">{el.title}</p>
 											<p className="f-16 color-blue fw-500 m-0">{el.value}</p>
 										</div>
@@ -128,7 +128,7 @@ function PropertyDetails({ selectedProperty, setSelectedIndex }) {
 							{selectedProperty?.lift?.map((el, index) => {
 								return (
 									<>
-										<div key={index} className="p-20">
+										<div key={index} className="p-20 res-ptb-10">
 											<p className="f-14 color-lightBlue m-0">{el.title}</p>
 											<p className="f-16 color-blue fw-500 m-0">{el.value}</p>
 										</div>
@@ -142,7 +142,7 @@ function PropertyDetails({ selectedProperty, setSelectedIndex }) {
 							})}
 						</div>
 					</div>
-					<div className="flex">
+					<div className="flex res-flex-col">
 						<div className="neighbourhood-card w-50 mr-28">
 							<h4 className="f-16 fw-500 color-lightBlue">
 								Preferred Neighbourhood
@@ -190,7 +190,7 @@ function PropertyDetails({ selectedProperty, setSelectedIndex }) {
 						</div>
 					</div>
 				</div>
-				<div className="bottom-cards flex align-center justify-between gap-8 mt-30">
+				<div className="bottom-cards flex align-center justify-between gap-8 mt-30 res-flex-col">
 					<div className="specifications-section w-50 p-30">
 						<div className="nearby-section">
 							<div className="flex justify-between align-center">

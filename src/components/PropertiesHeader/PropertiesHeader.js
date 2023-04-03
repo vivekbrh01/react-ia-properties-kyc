@@ -59,7 +59,7 @@ function PropertiesHeader({ page, setAddKyc, setSelectedIndex }) {
 					className={
 						page === "properties-list"
 							? "text-banner"
-							: "text-banner text-banner-flex"
+							: "text-banner text-banner-flex newHeight"
 					}
 				>
 					{page === "properties-list" ? (
