@@ -1,0 +1,181 @@
+.property-details-wrapper {
+	margin-left: 70px;
+	margin-top: 30px;
+	margin-bottom: 80px;
+}
+
+.property-card {
+	background: #ffffff !important;
+	border: 1px solid rgba(10, 58, 103, 0.2) !important;
+	border-radius: 30px !important;
+	padding: 30px !important;
+	width: 96%;
+}
+
+.hero-heading {
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 30px;
+	color: #0a3a67;
+}
+
+.banner {
+	width: 466px;
+	height: 208px;
+	margin-left: -24px;
+	margin-top: -24px;
+}
+
+.property-description {
+	background: rgba(89, 153, 213, 0.08);
+	border-radius: 10px;
+}
+
+.specifications-section {
+	background: #ffffff;
+	border: 1px solid rgba(10, 58, 103, 0.2);
+	border-radius: 30px;
+}
+
+.box-group {
+	border: 1px solid rgba(10, 58, 103, 0.15);
+	border-radius: 10px;
+}
+
+.image-text-card {
+	width: 110px;
+	height: 91px;
+	background: #ffffff;
+	border: 1px solid rgba(10, 58, 103, 0.15);
+	box-shadow: 0px 4px 26px rgba(0, 0, 0, 0.06);
+	border-radius: 14px;
+}
+
+.neighbourhood-image {
+	width: 60px;
+	height: 44.55px;
+}
+
+.amenities-icon {
+	height: 36px;
+	width: 36px;
+}
+
+.nearby-section-card {
+	background: #ffffff;
+	border: 1px solid rgba(10, 58, 103, 0.15);
+	border-radius: 14px;
+	padding: 10px;
+}
+.nearby-section-card-image {
+	height: 80px;
+	width: 80px;
+}
+.finance-section-card-image {
+	height: 80px;
+	width: 80px;
+}
+/* Common */
+.flex {
+	display: flex;
+}
+.flex-column {
+	display: flex;
+	flex-direction: column;
+}
+.align-center {
+	align-items: center;
+}
+
+.justify-between {
+	justify-content: space-between;
+}
+.justify-center {
+	justify-content: center;
+}
+.w-30 {
+	width: 50%;
+}
+
+.w-50 {
+	width: 50%;
+}
+
+.color-blue {
+	color: #0a3a67;
+}
+
+.color-lightBlue {
+	color: rgba(10, 58, 103, 0.6);
+}
+.color-maroon {
+	color: #75013d;
+}
+.f-12 {
+	font-size: 12px !important;
+}
+.f-14 {
+	font-size: 14px !important;
+}
+.f-16 {
+	font-size: 16px;
+}
+
+.p-10 {
+	padding: 10px;
+}
+.pt-10 {
+	padding-top: 10px;
+}
+
+.p-16 {
+	padding: 16px;
+}
+
+.p-20 {
+	padding: 20px;
+}
+.pr-20 {
+	padding-right: 20px;
+}
+.pl-20 {
+	padding-left: 20px;
+}
+
+.pb-20 {
+	padding-bottom: 20px;
+}
+
+.p-30 {
+	padding: 30px;
+}
+
+.pb-30 {
+	padding-bottom: 30px;
+}
+.fw-400 {
+	font-weight: 400;
+}
+
+.fw-500 {
+	font-weight: 500;
+}
+
+.m-0 {
+	margin: 0px;
+}
+.mr-28 {
+	margin-right: 28px;
+}
+.mt-30 {
+	margin-top: 30px;
+}
+.underline {
+	text-decoration: underline;
+}
+.gap-16 {
+	gap: 16px;
+}
+.gap-8 {
+	gap: 8px;
+}

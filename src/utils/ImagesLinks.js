@@ -42,6 +42,27 @@ const ImageLinks = {
 	filterIcon: require("../assets/images/filter/filter-icon.png"),
 	messageIcon: require("../assets/images/message/message-icon.png"),
 	search: require("../assets/images/search/search.png"),
+
+	// Property Details
+	banner: require("../assets/images/properties/banner.png"),
+	cyclingIcon: require("../assets/images/properties/cycling-icon.png"),
+	gamesIcon: require("../assets/images/properties/games-icon.png"),
+	healthcare: require("../assets/images/properties/healthcare.svg"),
+	intercomIcon: require("../assets/images/properties/intercom-icon.png"),
+	nearby1: require("../assets/images/properties/nearby1.png"),
+	nearby2: require("../assets/images/properties/nearby2.png"),
+	nearby3: require("../assets/images/properties/nearby3.png"),
+	publicTransport: require("../assets/images/properties/public-transport.svg"),
+	restaurants: require("../assets/images/properties/restaurants.svg"),
+	schools: require("../assets/images/properties/schools.svg"),
+	swimmingIcon: require("../assets/images/properties/swimming-icon.png"),
+
+	// Financing
+	axis: require("../assets/images/financing/axis.png"),
+	hdfc: require("../assets/images/financing/hdfc.png"),
+	icici: require("../assets/images/financing/icici.png"),
+	kotak: require("../assets/images/financing/kotak.png"),
+	sbi: require("../assets/images/financing/sbi.png"),
 };
 
 export default ImageLinks;

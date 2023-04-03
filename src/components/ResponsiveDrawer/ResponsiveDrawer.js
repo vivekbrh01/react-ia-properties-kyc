@@ -32,7 +32,7 @@ function ResponsiveDrawer({ window, selectedIndex, setSelectedIndex }) {
 			<List>
 				{drawerData.map((text, index) => (
 					<ListItem
-						key={text}
+						key={text.title}
 						disablePadding
 						onClick={() => handleListItemClick(index)}
 						sx={
