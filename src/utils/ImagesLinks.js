@@ -24,6 +24,7 @@ const ImageLinks = {
 	logoutIcon: require("../assets/images/drawer/logout.png"),
 
 	// arrow
+	arrowDownBlue: require("../assets/images/arrow/arrowDownBlue.png"),
 	arrowDownLightBlue: require("../assets/images/arrow/arrowDownLightBlue.png"),
 	arrowDownDarkGreen: require("../assets/images/arrow/arrowDownDarkGreen.png"),
 	arrowDownLightGreen: require("../assets/images/arrow/arrowDownLightGreen.png"),
@@ -63,6 +64,12 @@ const ImageLinks = {
 	icici: require("../assets/images/financing/icici.png"),
 	kotak: require("../assets/images/financing/kotak.png"),
 	sbi: require("../assets/images/financing/sbi.png"),
+
+	// Line
+	lineBlue: require("../assets/images/lineBlue.png"),
+
+	// Upload pic
+	uploadPic: require("../assets/images/uploadPic.png"),
 };
 
 export default ImageLinks;

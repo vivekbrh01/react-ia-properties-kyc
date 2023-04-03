@@ -14,7 +14,7 @@ import ImageLinks from "../../utils/ImagesLinks";
 import usePagination from "../../components/hooks/usePagination";
 import PropertiesHeader from "../PropertiesHeader/PropertiesHeader";
 
-function ListProperties({ setSelectedProperty }) {
+function ListProperties({ setSelectedProperty, setAddKyc }) {
 	const [pageCount, setPageCount] = useState(1);
 
 	const PER_PAGE = 20;
@@ -31,7 +31,7 @@ function ListProperties({ setSelectedProperty }) {
 	};
 	return (
 		<div className="list-properties-wrapper">
-			<PropertiesHeader page="properties-list" />
+			<PropertiesHeader page="properties-list" setAddKyc={setAddKyc} />
 			<List className="heading-item-wrapper">
 				<ListItem>
 					<ListItemText className="heading-id">Property Id</ListItemText>
