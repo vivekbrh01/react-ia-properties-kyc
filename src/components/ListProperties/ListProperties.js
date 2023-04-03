@@ -14,7 +14,7 @@ import ImageLinks from "../../utils/ImagesLinks";
 import usePagination from "../../components/hooks/usePagination";
 import PropertiesHeader from "../PropertiesHeader/PropertiesHeader";
 
-function ListProperties() {
+function ListProperties({ setSelectedProperty }) {
 	const [pageCount, setPageCount] = useState(1);
 
 	const PER_PAGE = 20;
@@ -26,6 +26,9 @@ function ListProperties() {
 		_DATA.jump(p);
 	};
 
+	const handleClickProperty = (data) => {
+		setSelectedProperty(data);
+	};
 	return (
 		<div className="list-properties-wrapper">
 			<PropertiesHeader page="properties-list" />
@@ -46,7 +49,11 @@ function ListProperties() {
 			</List>
 			{_DATA.currentData()?.map((data) => {
 				return (
-					<List key={data.id} className="list-item-wrapper">
+					<List
+						key={data.id}
+						className="list-item-wrapper"
+						onClick={() => handleClickProperty(data)}
+					>
 						<ListItem>
 							<ListItemText className="list-id">{data.id}</ListItemText>
 							<ListItemText className="list-title">{data.title}</ListItemText>

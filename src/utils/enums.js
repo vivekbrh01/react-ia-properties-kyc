@@ -50,6 +50,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownLightGreen,
 		color: "#13942F",
 		bgColor: "#13942f0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223312,
@@ -61,6 +145,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownRed,
 		color: "#FF3B10",
 		bgColor: "#ff3b100d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223313,
@@ -72,6 +240,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownYellow,
 		color: "#DA9F2B",
 		bgColor: "#ffac060d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223314,
@@ -83,6 +335,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownDarkGreen,
 		color: "#1F9A8B",
 		bgColor: "#1f9a8b0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223375,
@@ -94,6 +430,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownLightGreen,
 		color: "#13942F",
 		bgColor: "#13942f0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223315,
@@ -105,6 +525,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownRed,
 		color: "#FF3B10",
 		bgColor: "#ff3b100d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223316,
@@ -116,6 +620,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownLightGreen,
 		color: "#13942F",
 		bgColor: "#13942f0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223317,
@@ -127,6 +715,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownRed,
 		color: "#FF3B10",
 		bgColor: "#ff3b100d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223318,
@@ -138,6 +810,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownYellow,
 		color: "#DA9F2B",
 		bgColor: "#ffac060d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223319,
@@ -149,6 +905,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownDarkGreen,
 		color: "#1F9A8B",
 		bgColor: "#1f9a8b0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223320,
@@ -160,6 +1000,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownLightGreen,
 		color: "#13942F",
 		bgColor: "#13942f0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223321,
@@ -171,6 +1095,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownRed,
 		color: "#FF3B10",
 		bgColor: "#ff3b100d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223322,
@@ -182,6 +1190,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownLightGreen,
 		color: "#13942F",
 		bgColor: "#13942f0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223323,
@@ -193,6 +1285,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownRed,
 		color: "#FF3B10",
 		bgColor: "#ff3b100d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223324,
@@ -204,6 +1380,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownYellow,
 		color: "#DA9F2B",
 		bgColor: "#ffac060d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223325,
@@ -215,6 +1475,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownDarkGreen,
 		color: "#1F9A8B",
 		bgColor: "#1f9a8b0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223326,
@@ -226,6 +1570,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownLightGreen,
 		color: "#13942F",
 		bgColor: "#13942f0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223327,
@@ -237,6 +1665,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownRed,
 		color: "#FF3B10",
 		bgColor: "#ff3b100d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223328,
@@ -248,6 +1760,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownLightGreen,
 		color: "#13942F",
 		bgColor: "#13942f0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223329,
@@ -259,6 +1855,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownRed,
 		color: "#FF3B10",
 		bgColor: "#ff3b100d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223330,
@@ -270,6 +1950,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownYellow,
 		color: "#DA9F2B",
 		bgColor: "#ffac060d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223331,
@@ -281,6 +2045,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownDarkGreen,
 		color: "#1F9A8B",
 		bgColor: "#1f9a8b0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223332,
@@ -292,6 +2140,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownLightGreen,
 		color: "#13942F",
 		bgColor: "#13942f0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223333,
@@ -303,6 +2235,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownRed,
 		color: "#FF3B10",
 		bgColor: "#ff3b100d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223334,
@@ -314,6 +2330,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownLightGreen,
 		color: "#13942F",
 		bgColor: "#13942f0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223335,
@@ -325,6 +2425,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownRed,
 		color: "#FF3B10",
 		bgColor: "#ff3b100d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223336,
@@ -336,6 +2520,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownYellow,
 		color: "#DA9F2B",
 		bgColor: "#ffac060d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223337,
@@ -347,6 +2615,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownDarkGreen,
 		color: "#1F9A8B",
 		bgColor: "#1f9a8b0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223338,
@@ -358,6 +2710,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownLightGreen,
 		color: "#13942F",
 		bgColor: "#13942f0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223339,
@@ -369,6 +2805,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownRed,
 		color: "#FF3B10",
 		bgColor: "#ff3b100d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223340,
@@ -380,6 +2900,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownLightGreen,
 		color: "#13942F",
 		bgColor: "#13942f0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223341,
@@ -391,6 +2995,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownRed,
 		color: "#FF3B10",
 		bgColor: "#ff3b100d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223342,
@@ -402,6 +3090,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownYellow,
 		color: "#DA9F2B",
 		bgColor: "#ffac060d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223343,
@@ -413,6 +3185,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownDarkGreen,
 		color: "#1F9A8B",
 		bgColor: "#1f9a8b0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223344,
@@ -424,6 +3280,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownLightGreen,
 		color: "#13942F",
 		bgColor: "#13942f0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223345,
@@ -435,6 +3375,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownRed,
 		color: "#FF3B10",
 		bgColor: "#ff3b100d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223346,
@@ -446,6 +3470,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownLightGreen,
 		color: "#13942F",
 		bgColor: "#13942f0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223347,
@@ -457,6 +3565,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownRed,
 		color: "#FF3B10",
 		bgColor: "#ff3b100d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223348,
@@ -468,6 +3660,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownYellow,
 		color: "#DA9F2B",
 		bgColor: "#ffac060d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223349,
@@ -479,6 +3755,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownDarkGreen,
 		color: "#1F9A8B",
 		bgColor: "#1f9a8b0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223350,
@@ -490,6 +3850,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownLightGreen,
 		color: "#13942F",
 		bgColor: "#13942f0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223351,
@@ -501,6 +3945,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownRed,
 		color: "#FF3B10",
 		bgColor: "#ff3b100d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223352,
@@ -512,6 +4040,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownLightGreen,
 		color: "#13942F",
 		bgColor: "#13942f0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223353,
@@ -523,6 +4135,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownRed,
 		color: "#FF3B10",
 		bgColor: "#ff3b100d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223354,
@@ -534,6 +4230,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownYellow,
 		color: "#DA9F2B",
 		bgColor: "#ffac060d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223355,
@@ -545,6 +4325,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownDarkGreen,
 		color: "#1F9A8B",
 		bgColor: "#1f9a8b0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223356,
@@ -556,6 +4420,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownLightGreen,
 		color: "#13942F",
 		bgColor: "#13942f0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223357,
@@ -567,6 +4515,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownRed,
 		color: "#FF3B10",
 		bgColor: "#ff3b100d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223358,
@@ -578,6 +4610,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownLightGreen,
 		color: "#13942F",
 		bgColor: "#13942f0d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223359,
@@ -589,6 +4705,90 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownRed,
 		color: "#FF3B10",
 		bgColor: "#ff3b100d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
 	},
 	{
 		id: 11223360,
@@ -600,5 +4800,140 @@ export const propertiesData = [
 		statusArrowDown: ImageLinks.arrowDownYellow,
 		color: "#DA9F2B",
 		bgColor: "#ffac060d",
+		banner: ImageLinks.banner,
+		type: "Villa",
+		projectSociety: "Prestige Golfshire",
+		occupancy: "Owned by Self",
+		description:
+			"Lörem ipsum anita Samuelsson nuskade nusk i promotiv. Pia Bergman queerpolska. Nevis metates. Margareta Ali lager. Blattesvenska termotologi nugårar. Bens sper.",
+		propertyDetails: [
+			{
+				title: "1400 sq.ft.",
+				subtitle: "Build up Area (sq. ft.)",
+			},
+			{
+				title: "₹46,400,000",
+				subtitle: "Current Property Value",
+			},
+			{
+				title: "Summer House",
+				subtitle: "Save Property as",
+			},
+			{
+				title: "Semi- Furnished",
+				subtitle: "Furnishing",
+			},
+			{
+				title: "₹50,400,000",
+				subtitle: "Expected Selling  Price",
+			},
+		],
+		propertySubDetails: [
+			{ unit: 3, title: "Bedrooms" },
+			{ unit: 3, title: "Bathrooms" },
+			{ unit: 2, title: "No. of floors" },
+			{ unit: 2, title: "Property on  Floor" },
+			{ unit: "5 Years", title: "Property Age(Years)" },
+			{ unit: "East", title: "Property Facing" },
+		],
+		coveredParking: [
+			{ value: "Yes", title: "Covered Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		openParking: [
+			{ value: "Yes", title: "Open Parking" },
+			{ value: 2, title: "No. of Units" },
+		],
+		lift: [
+			{ value: "Yes", title: "Lift Availability " },
+			{ value: 2, title: "No. of Units" },
+		],
+		neighbourhood: [
+			{
+				image: ImageLinks.healthcare,
+				title: "Healthcare",
+			},
+			{
+				image: ImageLinks.schools,
+				title: "School",
+			},
+			{
+				image: ImageLinks.restaurants,
+				title: "Restaurant",
+			},
+			{
+				image: ImageLinks.publicTransport,
+				title: "Public Transport",
+			},
+		],
+		amenities: [
+			{
+				image: ImageLinks.swimmingIcon,
+				title: "Swimming pool",
+			},
+			{
+				image: ImageLinks.cyclingIcon,
+				title: "Gym",
+			},
+			{
+				image: ImageLinks.intercomIcon,
+				title: "Intercom",
+			},
+			{
+				image: ImageLinks.gamesIcon,
+				title: "Indoor Games",
+			},
+		],
+	},
+];
+
+export const nearbyProperties = [
+	{
+		title: "Cubbon Park",
+		subtitle: "2 km",
+		image: ImageLinks.nearby1,
+	},
+	{
+		title: "Orion Mall",
+		subtitle: "5 km",
+		image: ImageLinks.nearby2,
+	},
+	{
+		title: "UB City",
+		subtitle: "6 km",
+		image: ImageLinks.nearby1,
+	},
+	{
+		title: "Kemp Fort",
+		subtitle: "2.5 km",
+		image: ImageLinks.nearby3,
+	},
+];
+
+export const financing = [
+	{
+		title: "Available at",
+		subtitle: "6.1%",
+		image: ImageLinks.axis,
+	},
+	{
+		title: "Available at",
+		subtitle: "6.4%",
+		image: ImageLinks.kotak,
+	},
+	{
+		title: "Available at",
+		subtitle: "6.7%",
+		image: ImageLinks.sbi,
+	},
+	{
+		title: "Available at",
+		subtitle: "6.8%",
+		image: ImageLinks.icici,
+	},
+	{
+		title: "Available at",
+		subtitle: "6.8%",
+		image: ImageLinks.hdfc,
 	},
 ];

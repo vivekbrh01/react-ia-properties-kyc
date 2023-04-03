@@ -78,11 +78,17 @@ function PropertiesHeader({ page }) {
 			<div className="flex-end">
 				<div className="filter-button">
 					<img
-						src={ImageLinks.filterIcon}
+						src={
+							page === "properties-list"
+								? ImageLinks.filterIcon
+								: ImageLinks.editIcon
+						}
 						alt="filter"
 						className="filrer-icon"
 					/>
-					<span className="filter-text">Filter</span>
+					<span className="filter-text">
+						{page === "properties-list" ? "Filter" : "Edit"}
+					</span>
 				</div>
 			</div>
 		</div>
