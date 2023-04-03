@@ -65,15 +65,7 @@ function Ekyc({ setPageCount }) {
 						display="flex"
 						alignItems="center"
 						justifyContent="center"
-						sx={{
-							background: "#FFFFFF",
-							boxShadow: "6px 6px 36px rgba(0, 0, 0, 0.06)",
-							borderRadius: "10px",
-							width: "1100px",
-							minWidth: "1100px",
-							MaxWidth: "1100px",
-							marginTop: "30px",
-						}}
+						className="steps-wrapper"
 					>
 						<p className="step-completed">1</p>
 						<p className="step-title">Registration Form</p>
@@ -92,13 +84,24 @@ function Ekyc({ setPageCount }) {
 					sx={{ marginTop: "70px", marginBottom: "35px" }}
 					gap={10}
 				>
-					<Box>
+					<Box sx={{ width: "100%" }}>
 						<ThemeProvider theme={theme}>
 							<form onSubmit={formik.handleSubmit}>
 								<Card
 									sx={{
-										padding: "35px 55px 35px 35px",
-										width: "445px",
+										padding: {
+											xs: "0px",
+											sm: "35px 55px 35px 35px",
+											md: "35px 55px 35px 35px",
+											lg: "35px 55px 35px 35px",
+										},
+										width: {
+											xs: "100%",
+											sm: "40%",
+											md: "40%",
+											lg: "40%",
+										},
+										margin: "0 auto",
 										borderRadius: "30px",
 									}}
 								>

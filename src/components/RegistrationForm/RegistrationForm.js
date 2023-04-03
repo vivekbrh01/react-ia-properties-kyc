@@ -145,7 +145,16 @@ function RegistrationForm({ setPageCount }) {
 													className="upload-pic"
 												/>
 											</Box>
-											<Box sx={{ width: { xs: "100%" } }}>
+											<Box
+												sx={{
+													width: {
+														xs: "100%",
+														sm: "70%",
+														md: "70%",
+														lg: "70%",
+													},
+												}}
+											>
 												<Box
 													sx={{
 														flexDirection: {

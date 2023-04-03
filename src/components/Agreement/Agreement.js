@@ -30,15 +30,7 @@ function Agreement({ setSelectedIndex }) {
 						display="flex"
 						alignItems="center"
 						justifyContent="center"
-						sx={{
-							background: "#FFFFFF",
-							boxShadow: "6px 6px 36px rgba(0, 0, 0, 0.06)",
-							borderRadius: "10px",
-							width: "1100px",
-							minWidth: "1100px",
-							MaxWidth: "1100px",
-							marginTop: "30px",
-						}}
+						className="steps-wrapper"
 					>
 						<p className="step-completed">1</p>
 						<p className="step-title">Registration Form</p>
@@ -62,8 +54,19 @@ function Agreement({ setSelectedIndex }) {
 					<Box>
 						<Card
 							sx={{
-								padding: "35px 55px 35px 35px",
-								width: "500px",
+								padding: {
+									xs: "8px",
+									sm: "35px 55px 35px 35px",
+									md: "35px 55px 35px 35px",
+									lg: "35px 55px 35px 35px",
+								},
+								width: {
+									xs: "96%",
+									sm: "60%",
+									md: "60%",
+									lg: "60%",
+								},
+								margin: "0 auto",
 								borderRadius: "30px",
 							}}
 						>
