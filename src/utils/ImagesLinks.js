@@ -32,6 +32,16 @@ const ImageLinks = {
 
 	// chat
 	chatIcon: require("../assets/images/chat/chat.png"),
+
+	// Properties Header
+	addIcon: require("../assets/images/add/add-icon.png"),
+	arrowBackBlue: require("../assets/images/arrow/arrowBackBlue.png"),
+	avatar: require("../assets/images/avatar/avatar.png"),
+	bellIcon: require("../assets/images/bell/bell-icon.png"),
+	editIcon: require("../assets/images/edit/edit-icon.png"),
+	filterIcon: require("../assets/images/filter/filter-icon.png"),
+	messageIcon: require("../assets/images/message/message-icon.png"),
+	search: require("../assets/images/search/search.png"),
 };
 
 export default ImageLinks;
