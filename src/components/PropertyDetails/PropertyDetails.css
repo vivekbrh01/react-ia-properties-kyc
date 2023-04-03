@@ -183,7 +183,7 @@
 @media only screen and (max-width: 600px) {
 	.property-details-wrapper {
 		margin-left: 0px;
-		margin-top: 15px;
+		margin-top: 0px;
 		margin-bottom: 20px;
 	}
 	.banner-wrapper,

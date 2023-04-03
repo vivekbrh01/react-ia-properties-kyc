@@ -17,12 +17,18 @@ import ImageLinks from "../../utils/ImagesLinks";
 import { drawerData } from "../../utils/enums";
 import "./ResponsiveDrawer.css";
 
-function ResponsiveDrawer({ window, selectedIndex, setSelectedIndex }) {
+function ResponsiveDrawer({
+	window,
+	selectedIndex,
+	setSelectedIndex,
+	setSelectedProperty,
+}) {
 	const [mobileOpen, setMobileOpen] = useState(false);
 
 	const handleListItemClick = (index) => {
 		setSelectedIndex(index);
 		setMobileOpen(false);
+		setSelectedProperty({});
 	};
 	const handleDrawerToggle = () => {
 		setMobileOpen((prev) => !prev);

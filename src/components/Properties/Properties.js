@@ -18,6 +18,7 @@ function Properties() {
 					<ResponsiveDrawer
 						selectedIndex={selectedIndex}
 						setSelectedIndex={setSelectedIndex}
+						setSelectedProperty={setSelectedProperty}
 					/>
 				) : (
 					""
