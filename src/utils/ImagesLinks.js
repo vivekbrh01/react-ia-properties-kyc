@@ -72,6 +72,8 @@ const ImageLinks = {
 	uploadPic: require("../assets/images/uploadPic.png"),
 	// Digilocker
 	digiLocker: require("../assets/images/digiLocker.png"),
+	// Checkbox
+	checkbox: require("../assets/images/checkbox.png"),
 };
 
 export default ImageLinks;
