@@ -93,8 +93,12 @@ function Signup({ setIsAuth }) {
 					display="flex"
 					alignItems="center"
 					justifyContent="center"
-					sx={{ marginTop: "70px", marginBottom: "35px" }}
-					gap={10}
+					sx={{
+						marginTop: { xs: "24px", sm: "70px", md: "70px", lg: "70px" },
+						marginBottom: "35px",
+						flexDirection: { xs: "column", sm: "row", md: "row", lg: "row" },
+						gap: { xs: 2, sm: 10, md: 10, lg: 10 },
+					}}
 				>
 					<Box>
 						<img
@@ -108,8 +112,19 @@ function Signup({ setIsAuth }) {
 							<form onSubmit={formik.handleSubmit}>
 								<Card
 									sx={{
-										padding: "35px 55px 35px 35px",
-										width: "445px",
+										padding: {
+											xs: "20px 32px 20px 20px",
+											sm: "35px 55px 35px 35px",
+											md: "35px 55px 35px 35px",
+											lg: "35px 55px 35px 35px",
+										},
+										width: {
+											xs: "300px",
+											sm: "445px",
+											md: "445px",
+											lg: "445px",
+										},
+										margin: { xs: "0px auto" },
 										borderRadius: "30px",
 									}}
 								>
