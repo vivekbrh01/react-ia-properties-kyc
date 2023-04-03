@@ -163,3 +163,47 @@
 	color: #ffffff !important;
 	background-color: #0f3e6a !important;
 }
+
+@media only screen and (max-width: 600px) {
+	.list-properties-wrapper {
+		margin-left: 0px;
+		margin-top: 15px;
+		margin-bottom: 20px;
+	}
+	.heading-id,
+	.heading-time,
+	.heading-title,
+	.list-id,
+	.list-title,
+	.time {
+		display: none;
+	}
+	.heading-branch {
+		width: 80px !important;
+		min-width: 80px !important;
+		max-width: 80px !important;
+	}
+	.heading-transaction {
+		width: 80px !important;
+		min-width: 80px !important;
+		max-width: 80px !important;
+		text-align: center;
+		margin-right: 24px;
+	}
+	.status-button {
+		margin-right: 12px !important;
+		width: 100px !important;
+		min-width: 100px !important;
+		max-width: 100px !important;
+	}
+	.status {
+		width: 60px !important;
+		max-width: 60px !important;
+		min-width: 60px !important;
+	}
+	.transaction {
+		text-align: center;
+		margin-right: 8px;
+		margin-left: 8px;
+	}
+}

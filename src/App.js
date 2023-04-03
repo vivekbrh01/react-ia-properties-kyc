@@ -6,7 +6,7 @@ import Signup from "./components/Signup";
 import "./App.css";
 
 function App() {
-	const [isAuth, setIsAuth] = useState(false);
+	const [isAuth, setIsAuth] = useState(true);
 
 	return (
 		<div className="App">

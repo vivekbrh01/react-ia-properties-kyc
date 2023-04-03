@@ -34,7 +34,7 @@ function PropertiesHeader({ page, setAddKyc, setSelectedIndex }) {
 						<></>
 					)}
 				</div>
-				<div className="header-left-section">
+				<div className="header-right-section">
 					{page === "properties-list" ? (
 						<div className="messages">
 							<img
@@ -54,27 +54,31 @@ function PropertiesHeader({ page, setAddKyc, setSelectedIndex }) {
 					</div>
 				</div>
 			</div>
-			<div
-				className={
-					page === "properties-list"
-						? "text-banner"
-						: "text-banner text-banner-flex"
-				}
-			>
-				{page === "properties-list" ? (
-					<>
-						<div className="text-banner-heading">Properties</div>
-						<div className="text-banner-subheading">Total 60 “All” Records</div>
-					</>
-				) : (
-					<div className="banner-wrapper">
-						<div className="text-banner-heading">Karthik’s portfolio</div>
-						<div className="banner-buttons">
-							<div className="view-properties">View Properties</div>
-							<div className="view-orders">View orders </div>
+			<div className="text-banner-wrapper">
+				<div
+					className={
+						page === "properties-list"
+							? "text-banner"
+							: "text-banner text-banner-flex"
+					}
+				>
+					{page === "properties-list" ? (
+						<>
+							<div className="text-banner-heading">Properties</div>
+							<div className="text-banner-subheading">
+								Total 60 “All” Records
+							</div>
+						</>
+					) : (
+						<div className="banner-wrapper">
+							<div className="text-banner-heading">Karthik’s portfolio</div>
+							<div className="banner-buttons">
+								<div className="view-properties">View Properties</div>
+								<div className="view-orders">View orders </div>
+							</div>
 						</div>
-					</div>
-				)}
+					)}
+				</div>
 			</div>
 			<div className="flex-end">
 				<div className="filter-button">

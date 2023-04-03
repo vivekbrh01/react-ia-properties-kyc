@@ -9,6 +9,9 @@ import ListItem from "@mui/material/ListItem";
 import ListItemButton from "@mui/material/ListItemButton";
 import ListItemIcon from "@mui/material/ListItemIcon";
 import ListItemText from "@mui/material/ListItemText";
+import Toolbar from "@mui/material/Toolbar";
+import IconButton from "@mui/material/IconButton";
+import MenuIcon from "@mui/icons-material/Menu";
 
 import ImageLinks from "../../utils/ImagesLinks";
 import { drawerData } from "../../utils/enums";
@@ -19,10 +22,10 @@ function ResponsiveDrawer({ window, selectedIndex, setSelectedIndex }) {
 
 	const handleListItemClick = (index) => {
 		setSelectedIndex(index);
+		setMobileOpen(false);
 	};
-
 	const handleDrawerToggle = () => {
-		setMobileOpen(!mobileOpen);
+		setMobileOpen((prev) => !prev);
 	};
 
 	const drawer = (
@@ -79,14 +82,26 @@ function ResponsiveDrawer({ window, selectedIndex, setSelectedIndex }) {
 			<CssBaseline />
 			<Box
 				component="nav"
-				sx={{ width: { sm: 200 }, flexShrink: { sm: 0 } }}
+				sx={{ width: { sm: 400 }, flexShrink: { sm: 0 } }}
 				aria-label="mailbox folders"
 			>
+				<Toolbar>
+					<IconButton
+						color="inherit"
+						aria-label="open drawer"
+						edge="start"
+						onClick={() => handleDrawerToggle()}
+						sx={{ mr: 2, display: { sm: "none" } }}
+					>
+						<MenuIcon />
+					</IconButton>
+				</Toolbar>
+
 				<Drawer
 					container={container}
 					variant="temporary"
 					open={mobileOpen}
-					onClose={handleDrawerToggle}
+					onClose={() => handleDrawerToggle()}
 					ModalProps={{
 						keepMounted: true,
 					}}
@@ -94,7 +109,7 @@ function ResponsiveDrawer({ window, selectedIndex, setSelectedIndex }) {
 						display: { xs: "block", sm: "none" },
 						"& .MuiDrawer-paper": {
 							boxSizing: "border-box",
-							width: 240,
+							width: 200,
 						},
 					}}
 				>
