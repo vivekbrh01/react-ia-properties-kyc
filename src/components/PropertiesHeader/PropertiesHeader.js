@@ -2,7 +2,7 @@ import React from "react";
 
 import "./PropertiesHeader.css";
 import ImageLinks from "../../utils/ImagesLinks";
-function PropertiesHeader({ page, setAddKyc }) {
+function PropertiesHeader({ page, setAddKyc, setSelectedIndex }) {
 	return (
 		<div className="header-main">
 			<div className="header-wrapper">
@@ -12,6 +12,7 @@ function PropertiesHeader({ page, setAddKyc }) {
 							src={ImageLinks.arrowBackBlue}
 							alt="arrow-back"
 							className="arrow-back-icon"
+							onClick={() => setSelectedIndex(3)}
 						/>
 					</div>
 					<div className="search-properties">

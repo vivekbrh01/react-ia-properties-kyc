@@ -6,12 +6,13 @@ import "./Agreement.css";
 import "../RegistrationForm/RegistrationForm.css";
 import "../../App.css";
 
-function Agreement() {
+function Agreement({ setSelectedIndex }) {
 	const [isChecked, setIsChecked] = useState(false);
 	const [isSubmitted, setIsSubmitted] = useState(false);
 
 	const handleSubmit = () => {
 		setIsSubmitted(true);
+		setSelectedIndex(3);
 	};
 	return (
 		<div className="sign-up-wrapper">

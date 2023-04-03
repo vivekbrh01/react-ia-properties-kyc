@@ -7,8 +7,8 @@ import "../../App.css";
 import Ekyc from "../Ekyc/Ekyc";
 import Agreement from "../Agreement/Agreement";
 
-function AddKyc() {
-	const [pageCount, setPageCount] = useState(2);
+function AddKyc({ setSelectedIndex }) {
+	const [pageCount, setPageCount] = useState(0);
 
 	return (
 		<div className="sign-up-wrapper">
@@ -18,7 +18,14 @@ function AddKyc() {
 				""
 			)}
 			{pageCount === 1 ? <Ekyc setPageCount={setPageCount} /> : ""}
-			{pageCount === 2 ? <Agreement setPageCount={setPageCount} /> : ""}
+			{pageCount === 2 ? (
+				<Agreement
+					setPageCount={setPageCount}
+					setSelectedIndex={setSelectedIndex}
+				/>
+			) : (
+				""
+			)}
 		</div>
 	);
 }

@@ -9,7 +9,7 @@ import AddKyc from "../AddKyc/AddKyc";
 function Properties() {
 	const [selectedIndex, setSelectedIndex] = useState(3);
 	const [selectedProperty, setSelectedProperty] = useState({});
-	const [addKyc, setAddKyc] = useState(true);
+	const [addKyc, setAddKyc] = useState(false);
 
 	return (
 		<div className="properties-wrapper">
@@ -28,6 +28,7 @@ function Properties() {
 					<ListProperties
 						setSelectedProperty={setSelectedProperty}
 						setAddKyc={setAddKyc}
+						setSelectedIndex={setSelectedIndex}
 					/>
 				) : (
 					<></>
@@ -35,12 +36,15 @@ function Properties() {
 				{selectedProperty &&
 				Object.keys(selectedProperty).length > 0 &&
 				addKyc === false ? (
-					<PropertyDetails selectedProperty={selectedProperty} />
+					<PropertyDetails
+						selectedProperty={selectedProperty}
+						setSelectedIndex={setSelectedIndex}
+					/>
 				) : (
 					<></>
 				)}
 			</div>
-			{addKyc ? <AddKyc /> : ""}
+			{addKyc ? <AddKyc setSelectedIndex={setSelectedIndex} /> : ""}
 		</div>
 	);
 }

@@ -4,7 +4,7 @@ import Properties from "./components/Properties/Properties";
 import Signup from "./components/Signup";
 
 function App() {
-	const [isAuth, setIsAuth] = useState(true);
+	const [isAuth, setIsAuth] = useState(false);
 
 	return (
 		<div className="App">

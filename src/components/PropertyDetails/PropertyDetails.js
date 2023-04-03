@@ -8,11 +8,14 @@ import ImageLinks from "../../utils/ImagesLinks";
 import { nearbyProperties, financing } from "../../utils/enums";
 import { ReactComponent as Healthcare } from "../../assets/images/properties/healthcare.svg";
 
-function PropertyDetails({ selectedProperty }) {
+function PropertyDetails({ selectedProperty, setSelectedIndex }) {
 	console.log(selectedProperty, "selectedProperty");
 	return (
 		<div className="property-details-wrapper">
-			<PropertiesHeader page="properties-details" />
+			<PropertiesHeader
+				page="properties-details"
+				setSelectedIndex={setSelectedIndex}
+			/>
 			<Card className="property-card">
 				<div className="hero-section">
 					<h3 className="hero-heading">Property Details</h3>
@@ -220,7 +223,7 @@ function PropertyDetails({ selectedProperty }) {
 					<div className="specifications-section w-50 p-30">
 						<div className="financing-section">
 							<div className="flex justify-between align-center">
-								<h4 className="f-16 fw-500 color-blue">Nearby Places</h4>
+								<h4 className="f-16 fw-500 color-blue">Home Financing</h4>
 								<h4 className="f-14 fw-500 color-maroon underline">
 									View More
 								</h4>
