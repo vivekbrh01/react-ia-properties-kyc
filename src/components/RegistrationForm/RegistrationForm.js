@@ -78,15 +78,7 @@ function RegistrationForm({ setPageCount }) {
 						display="flex"
 						alignItems="center"
 						justifyContent="center"
-						sx={{
-							background: "#FFFFFF",
-							boxShadow: "6px 6px 36px rgba(0, 0, 0, 0.06)",
-							borderRadius: "10px",
-							width: "1100px",
-							minWidth: "1100px",
-							MaxWidth: "1100px",
-							marginTop: "30px",
-						}}
+						className="steps-wrapper"
 					>
 						<p className="step">1</p>
 						<p className="step-title">Registration Form</p>
@@ -99,18 +91,28 @@ function RegistrationForm({ setPageCount }) {
 					</Box>
 				</Box>
 				<Box
-					display="flex"
-					alignItems="center"
-					justifyContent="center"
-					sx={{ marginTop: "30px", marginBottom: "35px" }}
-					gap={10}
+					sx={{
+						marginTop: { xs: "12px", sm: "30px", md: "30px", lg: "30px" },
+
+						marginBottom: { xs: "12px", sm: "30px", md: "30px", lg: "30px" },
+						display: "flex",
+						flexDirection: { xs: "column", sm: "row", md: "row", lg: "row" },
+						alignItems: "center",
+						justifyContent: "center",
+						gap: "10px",
+					}}
 				>
 					<Box>
 						<ThemeProvider theme={theme}>
 							<form onSubmit={formik.handleSubmit}>
 								<Card
 									sx={{
-										padding: "35px 55px 35px 35px",
+										padding: {
+											xs: "0px",
+											sm: "35px 55px 35px 35px",
+											md: "35px 55px 35px 35px",
+											lg: "35px 55px 35px 35px",
+										},
 										borderRadius: "30px",
 										width: "100%",
 									}}
@@ -118,10 +120,23 @@ function RegistrationForm({ setPageCount }) {
 									<CardContent>
 										<p className="page-title">Registration Form </p>
 										<Box
-											mt={2}
-											display="flex"
-											alignItems="center"
-											justifyContent="space-between"
+											sx={{
+												marginTop: {
+													xs: "4px",
+													sm: "16px",
+													md: "16px",
+													lg: "16px",
+												},
+												display: "flex",
+												flexDirection: {
+													xs: "column",
+													sm: "row",
+													md: "row",
+													lg: "row",
+												},
+												alignItems: "center",
+												justifyContent: "space-between",
+											}}
 										>
 											<Box className="pic-box">
 												<img
@@ -130,13 +145,31 @@ function RegistrationForm({ setPageCount }) {
 													className="upload-pic"
 												/>
 											</Box>
-											<Box>
+											<Box sx={{ width: { xs: "100%" } }}>
 												<Box
+													sx={{
+														flexDirection: {
+															xs: "column",
+															sm: "row",
+															md: "row",
+															lg: "row",
+														},
+														width: { xs: "100%" },
+													}}
 													display="flex"
 													justifyContent="space-between"
 													gap="29px"
 												>
-													<Box sx={{ width: "300px" }}>
+													<Box
+														sx={{
+															width: {
+																xs: "100%",
+																sm: "300px",
+																md: "300px",
+																lg: "300px",
+															},
+														}}
+													>
 														<p className="field-title mt-0">Name</p>
 														<TextField
 															sx={{ fontSize: "15px" }}
@@ -159,7 +192,16 @@ function RegistrationForm({ setPageCount }) {
 															}
 														/>
 													</Box>
-													<Box sx={{ width: "300px" }}>
+													<Box
+														sx={{
+															width: {
+																xs: "100%",
+																sm: "300px",
+																md: "300px",
+																lg: "300px",
+															},
+														}}
+													>
 														<p className="field-title mt-0">Contact</p>
 														<TextField
 															sx={{ fontSize: "15px" }}
@@ -184,13 +226,31 @@ function RegistrationForm({ setPageCount }) {
 													</Box>
 												</Box>
 												<Box
+													sx={{
+														flexDirection: {
+															xs: "column",
+															sm: "row",
+															md: "row",
+															lg: "row",
+														},
+														width: { xs: "100%" },
+													}}
 													display="flex"
 													alignItems="center"
 													justifyContent="space-between"
 													gap="29px"
 													mt={2}
 												>
-													<Box sx={{ width: "300px" }}>
+													<Box
+														sx={{
+															width: {
+																xs: "100%",
+																sm: "300px",
+																md: "300px",
+																lg: "300px",
+															},
+														}}
+													>
 														<p className="field-title mt-0">Email</p>
 														<TextField
 															sx={{ fontSize: "15px" }}
@@ -212,7 +272,16 @@ function RegistrationForm({ setPageCount }) {
 															}
 														/>
 													</Box>
-													<Box sx={{ width: "300px" }}>
+													<Box
+														sx={{
+															width: {
+																xs: "100%",
+																sm: "300px",
+																md: "300px",
+																lg: "300px",
+															},
+														}}
+													>
 														<p className="field-title mt-0">Gender</p>
 														<OutlinedInput
 															fullWidth
@@ -244,6 +313,14 @@ function RegistrationForm({ setPageCount }) {
 											</Box>
 										</Box>
 										<Box
+											sx={{
+												flexDirection: {
+													xs: "column",
+													sm: "row",
+													md: "row",
+													lg: "row",
+												},
+											}}
 											display="flex"
 											alignItems="center"
 											justifyContent="space-between"
@@ -354,6 +431,11 @@ function RegistrationForm({ setPageCount }) {
 												display="flex"
 												alignItems="center"
 												justifyContent="space-between"
+												sx={{
+													flexWrap: {
+														xs: "wrap",
+													},
+												}}
 											>
 												<Box className="service-btn">Painting</Box>
 												<Box className="service-btn">AC / Geyser Service</Box>
@@ -364,6 +446,14 @@ function RegistrationForm({ setPageCount }) {
 										</Box>
 									</CardContent>
 									<Box
+										sx={{
+											flexDirection: {
+												xs: "column",
+												sm: "row",
+												md: "row",
+												lg: "row",
+											},
+										}}
 										mt={2}
 										display="flex"
 										alignItems="center"
