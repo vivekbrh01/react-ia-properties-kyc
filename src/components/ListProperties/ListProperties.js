@@ -12,6 +12,7 @@ import "./ListProperties.css";
 import { propertiesData } from "../../utils/enums";
 import ImageLinks from "../../utils/ImagesLinks";
 import usePagination from "../../components/hooks/usePagination";
+import PropertiesHeader from "../PropertiesHeader/PropertiesHeader";
 
 function ListProperties() {
 	const [pageCount, setPageCount] = useState(1);
@@ -27,6 +28,7 @@ function ListProperties() {
 
 	return (
 		<div className="list-properties-wrapper">
+			<PropertiesHeader page="properties-list" />
 			<List className="heading-item-wrapper">
 				<ListItem>
 					<ListItemText className="heading-id">Property Id</ListItemText>
