@@ -170,6 +170,15 @@
 		margin-top: 0px;
 		margin-bottom: 20px;
 	}
+	.heading-status {
+		width: 100px !important;
+		max-width: 100px !important;
+		min-width: 100px !important;
+		margin: 0px !important;
+	}
+	.custom-pagination {
+		width: 100%;
+	}
 	.heading-id,
 	.heading-time,
 	.heading-title,
@@ -205,5 +214,11 @@
 		text-align: center;
 		margin-right: 8px;
 		margin-left: 8px;
+	}
+	.list-item-wrapper {
+		width: 100%;
+	}
+	.heading-item-wrapper {
+		width: 100%;
 	}
 }

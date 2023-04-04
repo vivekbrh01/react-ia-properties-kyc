@@ -464,6 +464,7 @@ function RegistrationForm({ setPageCount }) {
 											},
 										}}
 										mt={2}
+										mb={2}
 										display="flex"
 										alignItems="center"
 										justifyContent="center"
